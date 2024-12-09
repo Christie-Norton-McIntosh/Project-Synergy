@@ -1,26 +1,3 @@
----
-icon: diagram-project
-description: >-
-  Effectively managing your service request catalog is essential for enhancing
-  operational efficiency and delivering exceptional customer experiences.
-cover: .gitbook/assets/Project Synergy Banner.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
-
 # Welcome to Project: Synergy
 
 ## <mark style="color:green;">ServiceNow Service Catalog Optimization</mark>
