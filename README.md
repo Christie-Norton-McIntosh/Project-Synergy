@@ -1,10 +1,10 @@
 ---
 description: >-
-  ServiceNow Service Catalog Optimization | Mastering the Fusion of Technical
-  Expertise with Business Insight
+  Effectively managing your service request catalog is essential for enhancing
+  operational efficiency and delivering exceptional customer experiences.
 icon: diagram-project
-cover: .gitbook/assets/Project Synergy Banner.png
-coverY: 0
+cover: .gitbook/assets/SCS banner1.png
+coverY: 47.592440427280195
 layout:
   cover:
     visible: true
@@ -12,7 +12,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: false
   outline:
@@ -23,6 +23,12 @@ layout:
 
 # Welcome to Project: Synergy
 
+{% hint style="info" %}
+#### <mark style="color:green;">Developers and Business Process Professionals often approach service catalogs from vastly different perspectives, with technical and operational viewpoints that can seem incompatible.</mark>
+
+<mark style="color:blue;">**However, when these two groups team up, magic happens!**</mark>&#x20;
+{% endhint %}
+
 ## <mark style="color:green;">ServiceNow Service Catalog Optimization</mark>
 
 <mark style="color:blue;">Mastering the Fusion of Technical Expertise with Business Insight</mark>
@@ -32,12 +38,6 @@ layout:
 ### What is <mark style="color:blue;">Project: Synergy</mark> About? <a href="#home-about" id="home-about"></a>
 
 <figure><img src=".gitbook/assets/sn-banner red hair couch dog.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-#### <mark style="color:green;">Developers and Business Process Professionals often approach service catalogs from vastly different perspectives, with technical and operational viewpoints that can seem incompatible.</mark>
-
-<mark style="color:blue;">**However, when these two groups team up, magic happens!**</mark>&#x20;
-{% endhint %}
 
 Enter the IT Business Systems Analysts—the unsung heroes who bridge the gap! Together they can craft an innovative service catalog that seamlessly blends technical know-how with sharp business insight. BSAs are the translators and facilitators, ensuring that everyone understands each other’s needs and concerns. The result? A service catalog that’s not just comprehensive, but also super user-friendly!
 
