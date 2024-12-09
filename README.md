@@ -1,28 +1,36 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # Welcome to Project: Synergy
 
 ## <mark style="color:green;">ServiceNow Service Catalog Optimization</mark>
 
 <mark style="color:blue;">Mastering the Fusion of Technical Expertise with Business Insight</mark>
 
-<figure><img src=".gitbook/assets/2024-08-21_23-09-34 (1).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src=".gitbook/assets/2024-08-21_23-09-34 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### What is <mark style="color:blue;">Project: Synergy</mark> About? <a href="#home-about" id="home-about"></a>
 
-<figure><img src=".gitbook/assets/sn-banner red hair couch dog.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src=".gitbook/assets/sn-banner red hair couch dog.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-#### <mark style="color:green;">Developers and Business Process Professionals often approach service catalogs from vastly different perspectives, with technical and operational viewpoints that can seem incompatible.</mark>
+<mark style="color:green;">**Developers and Business Process Professionals often approach service catalogs from vastly different perspectives, with technical and operational viewpoints that can seem incompatible.**</mark>
 
-<mark style="color:blue;">**However, when these two groups team up, magic happens!**</mark>&#x20;
+<mark style="color:blue;">**However, when these two groups team up, magic happens!**</mark>
 {% endhint %}
 
 Enter the IT Business Systems Analysts—the unsung heroes who bridge the gap! Together they can craft an innovative service catalog that seamlessly blends technical know-how with sharp business insight. BSAs are the translators and facilitators, ensuring that everyone understands each other’s needs and concerns. The result? A service catalog that’s not just comprehensive, but also super user-friendly!
-
-
-
-
-
-
 
 This passion project combines my expertise as an IT Business Systems Analyst (BSA) and ServiceNow Certified System Administrator (CSA) to offer a fresh perspective on enhancing user experiences and streamlining business processes within the ServiceNow Service Catalog.
 
@@ -35,4 +43,3 @@ By implementing these strategies, you can create a more efficient, user-friendly
 * [norton.mcintosh@gmail.com](mailto:Team@email.com)
 * \#slackchannel
 * Raise a ticket at \<link>
-
