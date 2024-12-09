@@ -27,7 +27,7 @@ layout:
 
 <mark style="color:blue;">Mastering the Fusion of Technical Expertise with Business Insight</mark>
 
-<figure><img src=".gitbook/assets/2024-08-21_23-09-34 (1).png" alt=""><figcaption><p><mark style="color:blue;">Key Concepts</mark></p></figcaption></figure>
+<figure><img src=".gitbook/assets/2024-08-21_23-09-34 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### What is <mark style="color:blue;">Project: Synergy</mark> About? <a href="#home-about" id="home-about"></a>
 
