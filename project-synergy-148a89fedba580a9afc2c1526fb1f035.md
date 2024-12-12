@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # PROJECT Synergy 148a89fedba580a9afc2c1526fb1f035
 
 ## PROJECT: Synergy
