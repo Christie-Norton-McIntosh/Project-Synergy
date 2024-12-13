@@ -1,3 +1,4 @@
+<!--
 ---
 layout:
   title:
@@ -11,7 +12,7 @@ layout:
   pagination:
     visible: true
 ---
-
+-->
 # Welcome to Project: Synergy
 
 ## <mark style="color:green;">ServiceNow Service Catalog Optimization</mark>
