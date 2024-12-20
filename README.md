@@ -1,18 +1,3 @@
-<!--
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: true
----
--->
 # Welcome to Project: Synergy
 
 ## <mark style="color:green;">ServiceNow Service Catalog Optimization</mark>
@@ -37,8 +22,6 @@ As a certified System Administrator and IT Business Systems Analyst, I help orga
 
 Say goodbye to chaos and hello to a world where every request is a breeze, and user satisfaction soars!
 
-#### Get in contact <a href="#home-getincontact" id="home-getincontact"></a>
+#### &#x20;<a href="#home-getincontact" id="home-getincontact"></a>
 
-* [norton.mcintosh@gmail.com](mailto:Team@email.com)
-* \#slackchannel
-* Raise a ticket at \<link>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Documentation</td><td></td><td></td></tr><tr><td>Management</td><td></td><td></td></tr><tr><td>User Experience</td><td></td><td></td></tr></tbody></table>

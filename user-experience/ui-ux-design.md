@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/SN Smoke banner extended gradient.png
+cover: ../.gitbook/assets/SN Smoke banner extended gradient.png
 coverY: 454.79852805887765
 layout:
   cover:
